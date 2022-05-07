@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, My name is Gabriel! 👋
 
-<!--
-**gabsdm/gabsdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 17 and live in Brazil, São Paulo. I love drawing and a bit of programmation.
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/79170809/167236267-b92fbb94-b24c-4cb3-8103-1e3b744cac54.png" width="250">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Progress
+Currently studying Adobe Illustrator, Python and Flutter.
+
+<br>
+
+### Contact me:
+- Email: gabriel.sdm.contato@gmail.com
